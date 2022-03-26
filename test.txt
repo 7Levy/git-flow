@@ -1,4 +1,8 @@
 hello world
 remote add 1
+<<<<<<< HEAD
 local add 3
 local add 4
+=======
+remote add 2
+>>>>>>> 98a507103718fd0db22707ae756c3f9ea944091d
